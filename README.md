@@ -2,5 +2,5 @@
 ### 個人網站 https://jeremy6789.github.io/WEB/
 
 # HW2
-### 網站連結
+### 網站連結 http://localhost:3000/
 ### 示範影片
