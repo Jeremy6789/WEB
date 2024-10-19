@@ -1,5 +1,5 @@
 # HW1
-### 個人網站 https://jeremy6789.github.io/WEB/
+### 個人網站 https://jeremy6789.github.io/HW2
 
 # HW2
 ### 網站連結 
