@@ -8,7 +8,7 @@
 
 ## HW1
 #### 個人網站
-### 個人CV https://jeremy6789.github.io/HW1/
+### CV https://jeremy6789.github.io/HW1/
 
 ## HW2
 #### React
