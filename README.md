@@ -15,4 +15,4 @@
 ### React
 #### [單字小測驗](https://jeremy6789.github.io/HW2/)
 #### [程式碼說明與操作示範影片](https://youtu.be/eLtUBeov2H0)
-#### [HW2程式碼檔案]()
+#### [HW2程式碼檔案](https://github.com/Jeremy6789/HW2.git)
