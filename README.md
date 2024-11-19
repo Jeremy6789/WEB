@@ -22,5 +22,5 @@
 ### [實作程式碼檔案](https://github.com/Jeremy6789/dice-react.git)
 
 ## HW4 部屬到Render
-### [作業三-擲骰子比大小](https://dice-react-5gly.onrender.com)
+### [擲骰子比大小](https://dice-react-5gly.onrender.com)
 
