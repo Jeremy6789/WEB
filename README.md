@@ -21,7 +21,7 @@
 ### [實作1-擲骰子比大小](https://dice-react-5gly.onrender.com)
 ### [實作1程式碼檔案](https://github.com/Jeremy6789/dice-react.git)
 ### [實作2-轉輪盤抽獎](https://spin-react.onrender.com)
-### [實作2程式碼檔案]()
+### [實作2程式碼檔案](https://github.com/Jeremy6789/spin-react.git)
 
 ## HW4 部屬到Render
 ### [擲骰子比大小](https://dice-react-5gly.onrender.com)
