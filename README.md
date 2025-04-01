@@ -27,3 +27,7 @@
 ### [擲骰子比大小](https://dice-react.onrender.com)
 ### [轉輪盤抽獎](https://spin-react.onrender.com)
 
+## 期末專題 - 多元抽獎工具
+### [程式碼](https://github.com/MocuAcqu/1131Lottery.git)
+### [抽獎工具連結](https://mocuacqu.github.io/1131Lottery/)
+### [解說影片](https://youtu.be/E1m29F7tk0Y?si=shB2eX-SUTFg5WAM)
